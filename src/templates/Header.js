@@ -12,6 +12,9 @@ const Header = () => {
         </a>
       </div>
     </div>
+    <div class="hero">
+       <img src="src/img/hero.jpg">
+    </div>
   `;
   return view;
 };
